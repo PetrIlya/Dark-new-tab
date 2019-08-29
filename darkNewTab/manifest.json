@@ -1,0 +1,9 @@
+{
+   "name": "Blank page(darkmode)",
+   "manifest_version": 2,
+   "version": "1.0.0",
+   "icons": { "32": "icon32.png"},
+   "chrome_url_overrides" : {
+   "newtab": "dark.html"
+   }
+}
